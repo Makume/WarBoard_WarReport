@@ -7,4 +7,4 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.0  | Module for open the War Report and see the timer <br>![Version 1.0.0](https://raw.githubusercontent.com/Makume/BagBonus/23a537f12518e40c21426fdae7c42470e99dd278/Images/BagBonus.png)|
+> | 1.0.0  | Module for open the War Report and see the timer <br>![Version 1.0.0](https://raw.githubusercontent.com/Makume/WarBoard_WarReport/d421cc92da1f0dbac664385ee99317b15da23043/Images/WarReport.png)|
