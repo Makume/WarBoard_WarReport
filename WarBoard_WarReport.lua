@@ -44,7 +44,7 @@ local function ToolTip()
 	Tooltips.SetTooltipActionText(L"Left Mouse to open the War Report window")
 end
 
--- gloabl functions
+-- global functions
 function WarBoard_WarReport.Initialize()
 	if WarBoard.AddMod(ModName) then
 		OnJumpTimerUpdated(CurrentEventsGetTimers())    

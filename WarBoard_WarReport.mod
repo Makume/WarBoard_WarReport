@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModuleFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<UiMod name="WarBoard_WarReport" version="1.0.1" date="02/13/2025" >
+	<UiMod name="WarBoard_WarReport" version="1.0.1" date="04/08/2025" >
 		<Author name="Psychoxell (Adeptha)" email="" />
 		<Description text="War Report Timer for WarBoard" />
 		<VersionSettings gameVersion="1.4.8" windowsVersion="1.0" savedVariablesVersion="1.0"/>
