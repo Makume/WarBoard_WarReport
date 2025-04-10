@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # Important dependencies
+> You need the AddOn [WarBoard](https://tools.idrinth.de/addons/warboard/)
+
 > [!TIP]
 > # Download
 > Download the latest version on the right side under the headline releases
